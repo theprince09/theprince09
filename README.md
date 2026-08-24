@@ -1,18 +1,62 @@
-# 💫 About Me:
-🛠️ I'm currently working on<br>ProgressHub – a developer dashboard that tracks GitHub commits, LeetCode stats, and certificates to visualize coding journey.<br><br>🤝 I'm looking to collaborate on<br>Open source projects that involve full-stack development, cloud integration, or productivity tools for students/developers.<br><br>🙋 I'm looking for help with<br>Automating dynamic data updates using AI/ML models for personalized recommendation systems (e.g., ShiftAid).<br><br>📚 I'm currently learning<br>Java Full Stack Development<br>Azure Cloud Fundamentals<br>Test Automation with Selenium<br>GitHub Actions for CI/CD<br><br>💬 Ask me about<br>Java, Python, Web Development<br>How to stay consistent with DSA practice<br>Setting up a basic cloud project on Azure<br><br>🎉 Fun fact<br>I treat every project like a mini hackathon and I'm on a personal mission to ship one project every week 🚀<br><br>
+# Prince — GitHub Profile README
 
+## 👋 Hi, I'm Prince
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/the_prince09) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_prince.09_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itsmeprince09) 
+I'm a **Java Full Stack Developer** focused on building practical applications, strengthening my **Data Structures & Algorithms** skills, and continuously improving my software development fundamentals.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=theprince09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=theprince09&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=theprince09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Currently working with **Java, Spring Boot, REST APIs, SQL, React, Git/GitHub**, and cloud technologies while building projects that turn concepts into real-world solutions.
+
+### 🚀 What I'm Currently Doing
+
+* 💻 Building full-stack applications with **Java & Spring Boot**
+* 🧩 Practicing **DSA regularly** and maintaining a consistent GitHub streak
+* 🌐 Developing and improving real-world projects
+* ☁️ Exploring **Cloud & CI/CD** with Azure and GitHub Actions
+* 📚 Strengthening backend, database, and software engineering fundamentals
+
+### 🛠️ Tech Stack
+
+**Languages**
+Java · JavaScript · TypeScript · C++ · Python · SQL
+
+**Backend**
+Spring · Spring Boot · REST APIs · JDBC · Servlets · Express.js
+
+**Frontend**
+HTML · CSS · JavaScript · React · Tailwind CSS
+
+**Databases**
+MySQL · MongoDB · DynamoDB
+
+**Cloud & DevOps**
+Azure · AWS · Git · GitHub Actions · GitLab CI
+
+**Tools & Platforms**
+Figma · Vercel · Render · Netlify
+
+### 📌 What You'll Find Here
+
+* 🧠 **DSA Solutions** — regularly solved problems with clean, readable Java implementations
+* 🚀 **Projects** — full-stack applications and experiments
+* ☁️ **Cloud & DevOps** — hands-on learning and deployments
+* 📚 **Learning Repositories** — notes, practice, and implementations
+
+### 🎯 Current Focus
+
+> **Learn → Build → Solve → Ship → Repeat.**
+
+I'm focused on becoming a stronger software engineer by consistently solving problems, building projects, and documenting the journey publicly.
+
+### 🤝 Let's Connect
+
+[LinkedIn](https://linkedin.com/in/itsmeprince09) · [Instagram](https://instagram.com/the_prince.09_)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=theprince09&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theprince09\&theme=dark\&hide_border=true\&include_all_commits=true\&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=theprince09\&theme=dark\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theprince09\&theme=dark\&hide_border=true\&layout=compact)
