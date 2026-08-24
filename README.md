@@ -1,8 +1,6 @@
-# Prince — GitHub Profile README
-
 ## 👋 Hi, I'm Prince
 
-I'm a **Java Full Stack Developer** focused on building practical applications, strengthening my **Data Structures & Algorithms** skills, and continuously improving my software development fundamentals.
+I'm a **Java Full Stack Developer** and Associate at Accenture focused on building practical applications, strengthening my **Data Structures & Algorithms** skills, and continuously improving my software development fundamentals.
 
 Currently working with **Java, Spring Boot, REST APIs, SQL, React, Git/GitHub**, and cloud technologies while building projects that turn concepts into real-world solutions.
 
