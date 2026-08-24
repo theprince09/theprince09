@@ -53,8 +53,11 @@ I'm focused on becoming a stronger software engineer by consistently solving pro
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theprince09\&theme=dark\&hide_border=true\&include_all_commits=true\&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theprince09&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theprince09&theme=dark&hide_border=true" height="180"/>
+</p>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=theprince09\&theme=dark\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theprince09\&theme=dark\&hide_border=true\&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprince09&theme=dark&hide_border=true&layout=compact" height="180"/>
+</p>
