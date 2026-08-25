@@ -74,20 +74,6 @@ I'm focused on becoming a stronger software engineer by consistently solving pro
 
 ---
 
-# 🧩 LeetCode Stats
-
-<p align="center">
-  <img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=the_prince_09&theme=dark&hide_border=true&sections=profile,solved,streak,skills,languages,heatmap" />
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/the_prince_09/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 🔥 Coding Journey
 
 <p align="center">
