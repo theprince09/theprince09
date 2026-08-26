@@ -5,6 +5,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=theprince09&color=00C2FF&style=flat-square&label=Profile+Views)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C2FF?style=flat-square&logo=vercel&logoColor=white)](https://prince09.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsmeprince09)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/the_prince_09/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/the_prince.09_)
@@ -139,4 +140,26 @@ I'm focused on becoming a stronger software engineer by consistently solving pro
 <br/>
 
 ## 🤝 Let's Connect
-<div align="center"> <a href="https://prince09.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit-00C2FF?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://linkedin.com/in/itsmeprince09"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://leetcode.com/u/the_prince_09/"> <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> </a> <a href="https://instagram.com/the_prince.09_"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </div> <br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=100&section=footer"/> </div>
+
+<div align="center">
+
+<a href="https://prince09.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-00C2FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/itsmeprince09">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/the_prince_09/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+<a href="https://instagram.com/the_prince.09_">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=100&section=footer"/>
+</div>
