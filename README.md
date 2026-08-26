@@ -1,101 +1,161 @@
-# 👋 Hi, I'm Prince
+<div align="center">
 
-I'm a **Java Full Stack Developer** and Associate at Accenture, focused on building practical applications, strengthening my **Data Structures & Algorithms** skills, and continuously improving my software development fundamentals.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Prince+%F0%9F%91%8B;Java+Full+Stack+Developer;DSA+%2B+Backend+Enthusiast;Building+%E2%86%92+Solving+%E2%86%92+Shipping" alt="Typing SVG" />
 
-Currently working with **Java, Spring Boot, REST APIs, SQL, React, Git/GitHub**, and cloud technologies while building projects that turn concepts into real-world solutions.
+<br/>
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=theprince09&color=00C2FF&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsmeprince09)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/the_prince_09/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/the_prince.09_)
+
+</div>
+
+<br/>
+
+## 👨‍💻 About Me
+
+I'm a **Java Full Stack Developer** and Associate at **Accenture**, focused on building practical applications, sharpening my **Data Structures & Algorithms**, and continuously levelling up my software engineering fundamentals.
+
+Currently working with **Java, Spring Boot, REST APIs, SQL, React**, and cloud tooling — turning concepts into real, working products.
+
+```yaml
+Role:          Java Full Stack Developer @ Accenture
+Focus:         DSA · Backend Systems · Full-Stack Development
+Currently:     Exploring Cloud & CI/CD (Azure, GitHub Actions)
+Philosophy:    Learn → Build → Solve → Ship → Repeat
+```
+
+<br/>
 
 ## 🚀 What I'm Currently Doing
 
-* 💻 Building full-stack applications with **Java & Spring Boot**
-* 🧩 Practicing **DSA regularly** and maintaining a consistent coding streak
-* 🌐 Developing and improving real-world projects
-* ☁️ Exploring **Cloud & CI/CD** with Azure and GitHub Actions
-* 📚 Strengthening backend, database, and software engineering fundamentals
+- 💻 Building full-stack applications with **Java & Spring Boot**
+- 🧩 Practicing **DSA daily** and maintaining a consistent coding streak
+- 🌐 Developing and refining real-world projects
+- ☁️ Exploring **Cloud & CI/CD** with Azure and GitHub Actions
+- 📚 Strengthening backend, database, and system design fundamentals
 
----
+<br/>
 
 ## 🛠️ Tech Stack
 
-### Languages
+<div align="center">
 
-**Java · JavaScript · TypeScript · C++ · Python · SQL**
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,cpp,py,mysql" />
 
-### Backend
+<br/><br/>
 
-**Spring · Spring Boot · REST APIs · JDBC · Servlets · Express.js**
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 
-### Frontend
+<br/><br/>
 
-**HTML · CSS · JavaScript · React · Tailwind CSS**
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 
-### Databases
+<br/><br/>
 
-**MySQL · MongoDB · DynamoDB**
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,dynamodb" />
 
-### Cloud & DevOps
+<br/><br/>
 
-**Azure · AWS · Git · GitHub Actions · GitLab CI**
+**Cloud, DevOps & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=azure,aws,git,github,gitlab,figma,vercel,netlify" />
 
-### Tools & Platforms
+</div>
 
-**Figma · Vercel · Render · Netlify**
+<br/>
 
----
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=theprince09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-streak-stats.vercel.app/?user=theprince09&theme=tokyonight&hide_border=true" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprince09&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theprince09&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
+
+</div>
+
+> 💡 **Note:** GitHub stat widgets are hosted on free third-party servers and occasionally take a few seconds (or a refresh) to load. If a card ever shows a broken image, it's a temporary host issue, not a broken link — reloading the page fixes it.
+
+<br/>
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcode-stats-card.vercel.app/api?username=the_prince_09&theme=dark&hide_border=true" height="165"/>
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=theprince09&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" />
+
+</div>
+
+<br/>
 
 ## 📌 What You'll Find Here
 
-* 🧠 **DSA Solutions** — regularly solved problems with clean, readable Java implementations
-* 🚀 **Projects** — full-stack applications and experiments
-* ☁️ **Cloud & DevOps** — hands-on learning and deployments
-* 📚 **Learning Repositories** — notes, practice, and implementations
+| Category | Description |
+|---|---|
+| 🧠 **DSA Solutions** | Regularly solved problems with clean, readable Java implementations |
+| 🚀 **Projects** | Full-stack applications and experiments |
+| ☁️ **Cloud & DevOps** | Hands-on learning and deployments |
+| 📚 **Learning Repos** | Notes, practice, and implementations |
 
----
+<br/>
 
 ## 🎯 Current Focus
 
-> **Learn → Build → Solve → Ship → Repeat.**
+<div align="center">
+
+### Learn → Build → Solve → Ship → Repeat
 
 I'm focused on becoming a stronger software engineer by consistently solving problems, building projects, and documenting the journey publicly.
 
----
+</div>
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theprince09&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theprince09&theme=dark&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprince09&theme=dark&hide_border=true&layout=compact" height="180"/>
-</p>
-
----
-
-## 🔥 Coding Journey
-
-<p align="center">
-
-**GitHub** → Building & Shipping 🚀
-**LeetCode** → Solving & Improving 🧩
-**DSA** → Consistency & Problem Solving 🧠
-
-</p>
-
----
+<br/>
 
 ## 🤝 Let's Connect
 
-<p align="left">
-  <a href="https://linkedin.com/in/itsmeprince09">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/the_prince_09/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/the_prince.09_">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://linkedin.com/in/itsmeprince09">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/the_prince_09/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+<a href="https://instagram.com/the_prince.09_">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=100&section=footer"/>
+</div>
