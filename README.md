@@ -47,7 +47,6 @@ Philosophy:    Learn → Build → Solve → Ship → Repeat
 <br/>
 <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,py,mysql" />
 
-<br/><br/>
 
 **Backend**
 <br/>
