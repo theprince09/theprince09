@@ -87,7 +87,6 @@ Philosophy:    Learn → Build → Solve → Ship → Repeat
 <img src="./profile/top-langs.svg" height="165"/>
 
 </div>
-<br/>
 
 ## 🧩 LeetCode Stats
 
