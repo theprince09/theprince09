@@ -62,6 +62,7 @@ Philosophy:    Learn → Build → Solve → Ship → Repeat
 <br/><br/>
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,dynamodb" />
+<br/>
 
 **Cloud, DevOps & Tools**
 <br/><br/>
