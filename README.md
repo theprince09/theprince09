@@ -92,12 +92,11 @@ Philosophy:    Learn → Build → Solve → Ship → Repeat
 
 <div align="center">
 
-<img src="https://leetcode-stats-card.vercel.app/api?username=the_prince_09&theme=dark&hide_border=true" height="165"/>
+<img src="./profile/leetcode.svg" height="165"/>
 
 </div>
 
 <br/>
-
 ## 📌 What You'll Find Here
 
 | Category | Description |
