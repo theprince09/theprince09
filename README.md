@@ -49,25 +49,23 @@ Philosophy:    Learn → Build → Solve → Ship → Repeat
 
 
 **Backend**
-<br/>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 
-<br/><br/>
 
 **Frontend**
-<br/>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 
-<br/><br/>
 
 **Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,dynamodb" />
-
 <br/><br/>
 
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,dynamodb" />
+
 **Cloud, DevOps & Tools**
-<br/>
+<br/><br/>
+
 <img src="https://skillicons.dev/icons?i=azure,aws,git,github,gitlab,figma,vercel,netlify" />
 
 </div>
