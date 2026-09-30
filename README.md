@@ -44,7 +44,7 @@ Philosophy:    Learn → Build → Solve → Ship → Repeat
 <div align="center">
 
 **Languages**
-<br/>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,py,mysql" />
 
 
