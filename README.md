@@ -98,16 +98,6 @@ Philosophy:    Learn → Build → Solve → Ship → Repeat
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=theprince09&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
-
-<br/>
-
 ## 📌 What You'll Find Here
 
 | Category | Description |
