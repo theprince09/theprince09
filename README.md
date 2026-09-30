@@ -79,21 +79,14 @@ Philosophy:    Learn → Build → Solve → Ship → Repeat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=theprince09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-streak-stats.vercel.app/?user=theprince09&theme=tokyonight&hide_border=true" height="165"/>
+<img src="./profile/stats.svg" height="165"/>
+<img src="./profile/streak.svg" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprince09&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=theprince09&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
+<img src="./profile/top-langs.svg" height="165"/>
 
 </div>
-
-> 💡 **Note:** GitHub stat widgets are hosted on free third-party servers and occasionally take a few seconds (or a refresh) to load. If a card ever shows a broken image, it's a temporary host issue, not a broken link — reloading the page fixes it.
-
 <br/>
 
 ## 🧩 LeetCode Stats
