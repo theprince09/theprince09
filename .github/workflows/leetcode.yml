@@ -1,0 +1,192 @@
+name: Update LeetCode Stats
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch LeetCode stats
+        run: |
+          python - <<'PY'
+          import json
+          import urllib.request
+          from pathlib import Path
+
+          username = "the_prince_09"
+
+          query = """
+          query userProfile($username: String!) {
+            matchedUser(username: $username) {
+              username
+              profile {
+                ranking
+                reputation
+              }
+              submitStats {
+                acSubmissionNum {
+                  difficulty
+                  count
+                  submissions
+                }
+              }
+            }
+          }
+          """
+
+          payload = json.dumps({
+              "query": query,
+              "variables": {"username": username}
+          }).encode()
+
+          request = urllib.request.Request(
+              "https://leetcode.com/graphql",
+              data=payload,
+              headers={
+                  "Content-Type": "application/json",
+                  "User-Agent": "Mozilla/5.0"
+              }
+          )
+
+          with urllib.request.urlopen(request) as response:
+              data = json.load(response)
+
+          user = data["data"]["matchedUser"]
+
+          if not user:
+              raise Exception("LeetCode user not found")
+
+          stats = {
+              item["difficulty"]: item["count"]
+              for item in user["submitStats"]["acSubmissionNum"]
+          }
+
+          total = stats.get("All", 0)
+          easy = stats.get("Easy", 0)
+          medium = stats.get("Medium", 0)
+          hard = stats.get("Hard", 0)
+          ranking = user["profile"]["ranking"]
+
+          Path("profile").mkdir(exist_ok=True)
+
+          svg = f'''<svg width="520" height="180" viewBox="0 0 520 180"
+          xmlns="http://www.w3.org/2000/svg">
+
+          <rect width="520" height="180" rx="12"
+                fill="#0d1117"
+                stroke="#30363d"/>
+
+          <text x="30" y="38"
+                fill="#58a6ff"
+                font-family="Arial, sans-serif"
+                font-size="22"
+                font-weight="bold">
+            LeetCode Stats
+          </text>
+
+          <text x="30" y="68"
+                fill="#8b949e"
+                font-family="Arial, sans-serif"
+                font-size="14">
+            @{username}
+          </text>
+
+          <text x="30" y="108"
+                fill="#f0f6fc"
+                font-family="Arial, sans-serif"
+                font-size="17">
+            Total Solved
+          </text>
+
+          <text x="30" y="137"
+                fill="#58a6ff"
+                font-family="Arial, sans-serif"
+                font-size="24"
+                font-weight="bold">
+            {total}
+          </text>
+
+          <text x="180" y="108"
+                fill="#f0f6fc"
+                font-family="Arial, sans-serif"
+                font-size="17">
+            Easy
+          </text>
+
+          <text x="180" y="137"
+                fill="#3fb950"
+                font-family="Arial, sans-serif"
+                font-size="24"
+                font-weight="bold">
+            {easy}
+          </text>
+
+          <text x="280" y="108"
+                fill="#f0f6fc"
+                font-family="Arial, sans-serif"
+                font-size="17">
+            Medium
+          </text>
+
+          <text x="280" y="137"
+                fill="#d29922"
+                font-family="Arial, sans-serif"
+                font-size="24"
+                font-weight="bold">
+            {medium}
+          </text>
+
+          <text x="410" y="108"
+                fill="#f0f6fc"
+                font-family="Arial, sans-serif"
+                font-size="17">
+            Hard
+          </text>
+
+          <text x="410" y="137"
+                fill="#f85149"
+                font-family="Arial, sans-serif"
+                font-size="24"
+                font-weight="bold">
+            {hard}
+          </text>
+
+          <text x="30" y="163"
+                fill="#8b949e"
+                font-family="Arial, sans-serif"
+                font-size="12">
+            Ranking: {ranking:,}
+          </text>
+
+          </svg>'''
+
+          Path("profile/leetcode.svg").write_text(svg)
+
+          print("LeetCode stats updated successfully.")
+          print(f"Total: {total}")
+          print(f"Easy: {easy}")
+          print(f"Medium: {medium}")
+          print(f"Hard: {hard}")
+          print(f"Ranking: {ranking}")
+          PY
+
+      - name: Commit updated stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/leetcode.svg
+
+          git commit -m "Update LeetCode stats" || exit 0
+
+          git push
